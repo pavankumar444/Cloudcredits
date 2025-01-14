@@ -26,7 +26,8 @@ Ensure you have the following installed:
 1. Clone this repository:
     ```bash
     git clone https://github.com/pavankumar444/Cloudcredits/
-    cd Cloudcredits/Currency Converter Project/
+    cd Cloudcredits/
+    cd '.\Currency Converter Project'
     ```
 2. Install dependencies:
     ```
