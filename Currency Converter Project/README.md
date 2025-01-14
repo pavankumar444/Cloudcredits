@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/pavankumar444/Cloudcredits/Currency Converter Project/CurrencyConverter.git
-    cd CurrencyConverter
+    git clone https://github.com/pavankumar444/Cloudcredits/
+    cd Cloudcredits/Currency Converter Project/
     ```
 2. Install dependencies:
     ```
@@ -34,6 +34,9 @@ Ensure you have the following installed:
 
     pip install customtkinter
     ```
-
+3. Run the project:
+   ```
+    python CurrencyConverter.py
+    ```
 ## Screenshots
 ![Currency Converter GUI](screenshot.png)
