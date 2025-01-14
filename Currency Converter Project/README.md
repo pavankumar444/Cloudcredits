@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/pavankumar444/currency-converter.git
-    cd currency-converter
+    git clone https://github.com/pavankumar444/Cloudcredits/Currency Converter Project/CurrencyConverter.git
+    cd CurrencyConverter
     ```
 2. Install dependencies:
     ```
